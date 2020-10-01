@@ -1,1 +1,1 @@
-# Pratikum-PBW-C
+# Praktikum-PBW-C
