@@ -1,0 +1,55 @@
+body{
+	margin: auto;
+	width: 720px;
+	height: auto;
+	font-family: sans-serif;
+	padding: 0;
+	background-image: linear-gradient(rgb(190, 153, 140), rgb(127, 153, 118), rgb(175, 194, 218) );
+}
+.pembahasan{
+	text-align:justify;
+	background-color: #FFFFFF;
+	padding: 40px 80px 40px 80px;
+}
+.pembahasan-profil{
+	text-align:justify;
+	background-color: #FFFFFF;
+	padding: 40px 80px 40px 80px;
+}
+
+.judul-utama{
+	text-align: center;
+}
+.gambar-judul{
+	text-align:center;
+}
+.gambar-judul img{
+	width: 450px;
+	height: auto;
+}
+.profil-am h1{
+	text-align: center;
+}
+.biodata{
+	padding-bottom: 3px;
+	text-align: justify-all;
+	list-style: none;
+}
+.sosmed li{
+	list-style: none;
+	float: left;
+	padding: 10px 10px 10px 10px;
+
+}
+.penutup li {
+	list-style: none;
+}
+.link-biodata{
+	list-style: none;
+	text-align: center;
+	float: left;
+	width: 50%;
+}
+.perjalanan-karir a{
+	padding:5px;
+}
