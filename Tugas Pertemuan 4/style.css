@@ -1,0 +1,78 @@
+body{
+	background-image: url(https://wallpapertag.com/wallpaper/full/1/1/5/118603-full-size-aesthetic-tumblr-backgrounds-black-1920x1080.jpg);
+	background-position: center;
+	font-family: sans-serif;
+}
+.regis, .login{
+	background-color: rgba(255,255,224,0.50);
+	margin-top: 45px;
+	margin-left: 470px;
+	margin-right: 470px;
+	align-items: center;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-left: 20px;	 
+	color: rgb(0,0,66);
+	height: auto;
+	border: 5px solid rgba(237,237,213,0.40);
+	box-sizing: content-box;
+	border-radius: 5px;
+}
+h3{
+	padding: 0px;
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+}
+.aform{
+	padding-bottom: 20px;
+	font-weight: lighter;
+	font-size: 15px;
+}
+#kiri{
+	float: left;
+	width: 50%;
+}
+#nama, #email, #alamat, #tlp, #foto, #psw, #kpsw, #l-email, #l-psw{
+	width: 253px;
+}
+input[type=text], [type=password], [type=email], [type=tel],[type=password], [type=number],select{
+    position: relative;
+    border: 1px solid rgb(0, 0, 40);
+    box-sizing: border-box;
+    padding: 5px 10px;
+    border-radius: 2px;
+    background-color: rgba(237,237,213,0.2);
+}
+input[type=file], .jk{
+	opacity: 0.75;
+}
+textarea{
+	padding: 5px 10px;
+	margin-bottom: 5px;
+	position: relative;
+    border: 1px solid rgb(0, 0, 40);
+    box-sizing: border-box;
+    border-radius: 2px;
+    background-color: rgba(237,237,213,0.2);
+    font-family: sans-serif;
+}
+.tbl{
+	text-align: center;
+}
+button{
+	padding: 5px 10px; 
+	width: 200px;
+	background-color:rgba(237,237,213,0.2);
+	border-radius: 3px;
+	font-size: 15px;
+	font-weight: lighter;
+	color: rgb(0,0,66);
+	border:1px solid rgb(0,0,40);
+}
+p {
+	width: 50%;
+	font-size: 13px;
+	padding-bottom: 10px;
+}
