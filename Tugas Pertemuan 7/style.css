@@ -1,0 +1,61 @@
+body{
+    background-image: url(https://image.freepik.com/free-vector/abstract-shiny-lines-white-gray-background_1017-25097.jpg);
+    margin-top: 100px;
+    width: 500px;
+    background-size: cover;
+    margin-left: 35%;
+}
+.card {
+    background: rgba(0, 0, 0, 0.09);
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: auto;
+    width: auto;
+    padding: 20px 20px 20px 20px;
+}
+h4{
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    font-size: 32px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+label{
+    font-family: Tahoma, sans-serif;
+    font-size: 17px;
+}
+#kiri{
+    float: left;
+    width: 30%;
+}
+input{
+    background-color: rgba(red, green, blue, 0.2);
+    width: 65%;
+    padding:5px 5px 5px 5px ;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.submit{
+    margin-top: 5px;
+    background: #9ba4b4;
+	border: none;
+	color: white;
+	width:90px;
+	height:30px;
+	border-radius:5px;
+    margin-left: 79%;
+    font-family: Tahoma, sans-serif;
+    font-size: 15px;
+}
+.submit:hover{
+    color: white;
+	background:#4e89ae;
+}
+.hasil{
+    font-family:Tahoma, sans-serif;
+    font-size: 20px;
+}
