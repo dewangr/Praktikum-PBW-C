@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.card{
+    margin-top:8%;
+    padding:15px;
+    font-family: 'Montserrat', sans-serif;
+}
+form {
+    padding:20px;
+    display:grid;
+    grid-template-columns: 170px 1fr;
+}
+label {
+    float: left;
+    width: 150px;
+    margin-bottom:20px;
+}
+input {
+    float: left;
+    width: calc(100% - 170px);
+    margin-bottom:20px;
+}
+button{
+    float:right;
+    width: calc(100% - 170px);
+}
